@@ -1,4 +1,5 @@
 # dfa_cli_compacto.py — versión reducida
+#Hola papus, este es mi ultimo trabajo de laboratorio, los extrañare papus de papulandia, cuidense!!
 import sys, matplotlib.pyplot as plt, networkx as nx
 from matplotlib.patches import FancyArrowPatch
 
